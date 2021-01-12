@@ -32509,7 +32509,7 @@
 					"Car": 8652,
 					"Id": 8958,
 					"Class": 8248,
-					"TeamName": "Arctic Lupus Energy",
+					"TeamName": "Lupus Energy",
 					"drivers": [
 						{
 							"Forename": "Ame",
@@ -67988,7 +67988,7 @@
 			"Car": 8652,
 			"Id": 8958,
 			"Class": 8248,
-			"TeamName": "Arctic Lupus Energy",
+			"TeamName": "Lupus Energy",
 			"drivers": [
 				{
 					"Forename": "Ame",
@@ -80281,7 +80281,7 @@
 		},
 		"8960": {
 			"Type": "CarTeam",
-			"Name": "Arctic Lupus Energy",
+			"Name": "Lupus Energy",
 			"Id": 8960
 		},
 		"8961": {
