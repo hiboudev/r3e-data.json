@@ -5692,6 +5692,21 @@
 							"Id": 3147
 						}
 					]
+				},
+				{
+					"Name": "#7",
+					"Team": 9956,
+					"Car": 2116,
+					"Id": 9940,
+					"Class": 1712,
+					"TeamName": "BMW Belgium BATIBOUW",
+					"drivers": [
+						{
+							"Forename": "Thierry",
+							"Surname": "Tassin",
+							"Id": 9955
+						}
+					]
 				}
 			]
 		},
@@ -19485,11 +19500,11 @@
 				},
 				{
 					"Name": "#08",
-					"Team": 5822,
+					"Team": 9391,
 					"Car": 5821,
 					"Id": 9816,
 					"Class": 5824,
-					"TeamName": "RRM",
+					"TeamName": "Scuderia Stratos",
 					"drivers": [
 						{
 							"Forename": "Ariff",
@@ -26537,6 +26552,21 @@
 							"Id": 7330
 						}
 					]
+				},
+				{
+					"Name": "#11",
+					"Team": 9935,
+					"Car": 7162,
+					"Id": 9934,
+					"Class": 5825,
+					"TeamName": "Weasel Energy",
+					"drivers": [
+						{
+							"Forename": "Marcus",
+							"Surname": "Dempwolf",
+							"Id": 9456
+						}
+					]
 				}
 			]
 		},
@@ -33457,8 +33487,8 @@
 					"TeamName": "Team Simple",
 					"drivers": [
 						{
-							"Forename": "Gergo",
-							"Surname": "Baldi",
+							"Forename": "Gergő",
+							"Surname": "Báldi",
 							"Id": 9016
 						}
 					]
@@ -33909,7 +33939,7 @@
 					"Car": 8726,
 					"Id": 8729,
 					"Class": 8660,
-					"TeamName": "CUPRA Leon Competición",
+					"TeamName": "M1RA Esports",
 					"drivers": [
 						{
 							"Forename": "CUPRA",
@@ -34275,6 +34305,321 @@
 							"Forename": "CUPRA",
 							"Surname": "Driver",
 							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#001",
+					"Team": 9995,
+					"Car": 8726,
+					"Id": 9959,
+					"Class": 8660,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "David",
+							"Surname": "Nagy",
+							"Id": 9007
+						}
+					]
+				},
+				{
+					"Name": "#026",
+					"Team": 9996,
+					"Car": 8726,
+					"Id": 9960,
+					"Class": 8660,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Moritz",
+							"Surname": "Löhner",
+							"Id": 9011
+						}
+					]
+				},
+				{
+					"Name": "#027",
+					"Team": 9997,
+					"Car": 8726,
+					"Id": 9961,
+					"Class": 8660,
+					"TeamName": "Independent",
+					"drivers": [
+						{
+							"Forename": "Attila",
+							"Surname": "Diner",
+							"Id": 10017
+						}
+					]
+				},
+				{
+					"Name": "#029",
+					"Team": 9998,
+					"Car": 8726,
+					"Id": 9962,
+					"Class": 8660,
+					"TeamName": "Team Fordzilla",
+					"drivers": [
+						{
+							"Forename": "Sören",
+							"Surname": "Jäger",
+							"Id": 10016
+						}
+					]
+				},
+				{
+					"Name": "#033",
+					"Team": 9996,
+					"Car": 8726,
+					"Id": 9963,
+					"Class": 8660,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Bánki",
+							"Id": 8843
+						}
+					]
+				},
+				{
+					"Name": "#040",
+					"Team": 9999,
+					"Car": 8726,
+					"Id": 9964,
+					"Class": 8660,
+					"TeamName": "Snow Schatten Esports",
+					"drivers": [
+						{
+							"Forename": "Leandro",
+							"Surname": "Werle",
+							"Id": 10015
+						}
+					]
+				},
+				{
+					"Name": "#044",
+					"Team": 10000,
+					"Car": 8726,
+					"Id": 9965,
+					"Class": 8660,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Jack",
+							"Surname": "Keithley",
+							"Id": 7153
+						}
+					]
+				},
+				{
+					"Name": "#046",
+					"Team": 9998,
+					"Car": 8726,
+					"Id": 9966,
+					"Class": 8660,
+					"TeamName": "Team Fordzilla",
+					"drivers": [
+						{
+							"Forename": "Gianmarco",
+							"Surname": "Fiduci",
+							"Id": 10014
+						}
+					]
+				},
+				{
+					"Name": "#050",
+					"Team": 10001,
+					"Car": 8726,
+					"Id": 9967,
+					"Class": 8660,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Pósán",
+							"Id": 10013
+						}
+					]
+				},
+				{
+					"Name": "#053",
+					"Team": 9997,
+					"Car": 8726,
+					"Id": 9968,
+					"Class": 8660,
+					"TeamName": "Independent",
+					"drivers": [
+						{
+							"Forename": "Tim",
+							"Surname": "Jarschel",
+							"Id": 9013
+						}
+					]
+				},
+				{
+					"Name": "#055",
+					"Team": 10002,
+					"Car": 8726,
+					"Id": 9969,
+					"Class": 8660,
+					"TeamName": "LADA Sport ROSNEFT",
+					"drivers": [
+						{
+							"Forename": "Pavel",
+							"Surname": "Mukonin",
+							"Id": 10012
+						}
+					]
+				},
+				{
+					"Name": "#060",
+					"Team": 10003,
+					"Car": 8726,
+					"Id": 9970,
+					"Class": 8660,
+					"TeamName": "Ballas Racing Team",
+					"drivers": [
+						{
+							"Forename": "Luciano",
+							"Surname": "Witvoet",
+							"Id": 10011
+						}
+					]
+				},
+				{
+					"Name": "#064",
+					"Team": 10004,
+					"Car": 8726,
+					"Id": 9971,
+					"Class": 8660,
+					"TeamName": "eRC powered by FSP | TÜV Rheinland",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Pfeifer",
+							"Id": 10010
+						}
+					]
+				},
+				{
+					"Name": "#067",
+					"Team": 9996,
+					"Car": 8726,
+					"Id": 9972,
+					"Class": 8660,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Florian",
+							"Surname": "Hasse",
+							"Id": 9014
+						}
+					]
+				},
+				{
+					"Name": "#069",
+					"Team": 9995,
+					"Car": 8726,
+					"Id": 9973,
+					"Class": 8660,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "Zoltan",
+							"Surname": "Csuti",
+							"Id": 9060
+						}
+					]
+				},
+				{
+					"Name": "#073",
+					"Team": 9995,
+					"Car": 8726,
+					"Id": 9974,
+					"Class": 8660,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "Gergő",
+							"Surname": "Báldi",
+							"Id": 9016
+						}
+					]
+				},
+				{
+					"Name": "#074",
+					"Team": 10002,
+					"Car": 8726,
+					"Id": 9975,
+					"Class": 8660,
+					"TeamName": "LADA Sport ROSNEFT",
+					"drivers": [
+						{
+							"Forename": "Kirill",
+							"Surname": "Antonov",
+							"Id": 2956
+						}
+					]
+				},
+				{
+					"Name": "#084",
+					"Team": 9998,
+					"Car": 8726,
+					"Id": 9976,
+					"Class": 8660,
+					"TeamName": "Team Fordzilla",
+					"drivers": [
+						{
+							"Forename": "Juan Manuel",
+							"Surname": "Gomez",
+							"Id": 10009
+						}
+					]
+				},
+				{
+					"Name": "#091",
+					"Team": 10005,
+					"Car": 8726,
+					"Id": 9977,
+					"Class": 8660,
+					"TeamName": "JJRacing",
+					"drivers": [
+						{
+							"Forename": "James",
+							"Surname": "Montgomery",
+							"Id": 10008
+						}
+					]
+				},
+				{
+					"Name": "#097",
+					"Team": 9995,
+					"Car": 8726,
+					"Id": 9978,
+					"Class": 8660,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Zsupanek",
+							"Id": 10007
+						}
+					]
+				},
+				{
+					"Name": "#099",
+					"Team": 10001,
+					"Car": 8726,
+					"Id": 9979,
+					"Class": 8660,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Corentin",
+							"Surname": "Pointeau",
+							"Id": 10006
 						}
 					]
 				}
@@ -35612,8 +35957,8 @@
 					"TeamName": "M1RA Esports",
 					"drivers": [
 						{
-							"Forename": "Gergo",
-							"Surname": "Baldi",
+							"Forename": "Gergő",
+							"Surname": "Báldi",
 							"Id": 9016
 						}
 					]
@@ -68001,8 +68346,8 @@
 			"TeamName": "Team Simple",
 			"drivers": [
 				{
-					"Forename": "Gergo",
-					"Surname": "Baldi",
+					"Forename": "Gergő",
+					"Surname": "Báldi",
 					"Id": 9016
 				}
 			]
@@ -68298,7 +68643,7 @@
 			"Car": 8726,
 			"Id": 8729,
 			"Class": 8660,
-			"TeamName": "CUPRA Leon Competición",
+			"TeamName": "M1RA Esports",
 			"drivers": [
 				{
 					"Forename": "CUPRA",
@@ -69861,8 +70206,8 @@
 			"TeamName": "M1RA Esports",
 			"drivers": [
 				{
-					"Forename": "Gergo",
-					"Surname": "Baldi",
+					"Forename": "Gergő",
+					"Surname": "Báldi",
 					"Id": 9016
 				}
 			]
@@ -73829,11 +74174,11 @@
 		},
 		"9816": {
 			"Name": "#08",
-			"Team": 5822,
+			"Team": 9391,
 			"Car": 5821,
 			"Id": 9816,
 			"Class": 5824,
-			"TeamName": "RRM",
+			"TeamName": "Scuderia Stratos",
 			"drivers": [
 				{
 					"Forename": "Ariff",
@@ -74171,6 +74516,351 @@
 					"Id": 9850
 				}
 			]
+		},
+		"9934": {
+			"Name": "#11",
+			"Team": 9935,
+			"Car": 7162,
+			"Id": 9934,
+			"Class": 5825,
+			"TeamName": "Weasel Energy",
+			"drivers": [
+				{
+					"Forename": "Marcus",
+					"Surname": "Dempwolf",
+					"Id": 9456
+				}
+			]
+		},
+		"9940": {
+			"Name": "#7",
+			"Team": 9956,
+			"Car": 2116,
+			"Id": 9940,
+			"Class": 1712,
+			"TeamName": "BMW Belgium BATIBOUW",
+			"drivers": [
+				{
+					"Forename": "Thierry",
+					"Surname": "Tassin",
+					"Id": 9955
+				}
+			]
+		},
+		"9959": {
+			"Name": "#001",
+			"Team": 9995,
+			"Car": 8726,
+			"Id": 9959,
+			"Class": 8660,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "David",
+					"Surname": "Nagy",
+					"Id": 9007
+				}
+			]
+		},
+		"9960": {
+			"Name": "#026",
+			"Team": 9996,
+			"Car": 8726,
+			"Id": 9960,
+			"Class": 8660,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Moritz",
+					"Surname": "Löhner",
+					"Id": 9011
+				}
+			]
+		},
+		"9961": {
+			"Name": "#027",
+			"Team": 9997,
+			"Car": 8726,
+			"Id": 9961,
+			"Class": 8660,
+			"TeamName": "Independent",
+			"drivers": [
+				{
+					"Forename": "Attila",
+					"Surname": "Diner",
+					"Id": 10017
+				}
+			]
+		},
+		"9962": {
+			"Name": "#029",
+			"Team": 9998,
+			"Car": 8726,
+			"Id": 9962,
+			"Class": 8660,
+			"TeamName": "Team Fordzilla",
+			"drivers": [
+				{
+					"Forename": "Sören",
+					"Surname": "Jäger",
+					"Id": 10016
+				}
+			]
+		},
+		"9963": {
+			"Name": "#033",
+			"Team": 9996,
+			"Car": 8726,
+			"Id": 9963,
+			"Class": 8660,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Bánki",
+					"Id": 8843
+				}
+			]
+		},
+		"9964": {
+			"Name": "#040",
+			"Team": 9999,
+			"Car": 8726,
+			"Id": 9964,
+			"Class": 8660,
+			"TeamName": "Snow Schatten Esports",
+			"drivers": [
+				{
+					"Forename": "Leandro",
+					"Surname": "Werle",
+					"Id": 10015
+				}
+			]
+		},
+		"9965": {
+			"Name": "#044",
+			"Team": 10000,
+			"Car": 8726,
+			"Id": 9965,
+			"Class": 8660,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Jack",
+					"Surname": "Keithley",
+					"Id": 7153
+				}
+			]
+		},
+		"9966": {
+			"Name": "#046",
+			"Team": 9998,
+			"Car": 8726,
+			"Id": 9966,
+			"Class": 8660,
+			"TeamName": "Team Fordzilla",
+			"drivers": [
+				{
+					"Forename": "Gianmarco",
+					"Surname": "Fiduci",
+					"Id": 10014
+				}
+			]
+		},
+		"9967": {
+			"Name": "#050",
+			"Team": 10001,
+			"Car": 8726,
+			"Id": 9967,
+			"Class": 8660,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Pósán",
+					"Id": 10013
+				}
+			]
+		},
+		"9968": {
+			"Name": "#053",
+			"Team": 9997,
+			"Car": 8726,
+			"Id": 9968,
+			"Class": 8660,
+			"TeamName": "Independent",
+			"drivers": [
+				{
+					"Forename": "Tim",
+					"Surname": "Jarschel",
+					"Id": 9013
+				}
+			]
+		},
+		"9969": {
+			"Name": "#055",
+			"Team": 10002,
+			"Car": 8726,
+			"Id": 9969,
+			"Class": 8660,
+			"TeamName": "LADA Sport ROSNEFT",
+			"drivers": [
+				{
+					"Forename": "Pavel",
+					"Surname": "Mukonin",
+					"Id": 10012
+				}
+			]
+		},
+		"9970": {
+			"Name": "#060",
+			"Team": 10003,
+			"Car": 8726,
+			"Id": 9970,
+			"Class": 8660,
+			"TeamName": "Ballas Racing Team",
+			"drivers": [
+				{
+					"Forename": "Luciano",
+					"Surname": "Witvoet",
+					"Id": 10011
+				}
+			]
+		},
+		"9971": {
+			"Name": "#064",
+			"Team": 10004,
+			"Car": 8726,
+			"Id": 9971,
+			"Class": 8660,
+			"TeamName": "eRC powered by FSP | TÜV Rheinland",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Pfeifer",
+					"Id": 10010
+				}
+			]
+		},
+		"9972": {
+			"Name": "#067",
+			"Team": 9996,
+			"Car": 8726,
+			"Id": 9972,
+			"Class": 8660,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Florian",
+					"Surname": "Hasse",
+					"Id": 9014
+				}
+			]
+		},
+		"9973": {
+			"Name": "#069",
+			"Team": 9995,
+			"Car": 8726,
+			"Id": 9973,
+			"Class": 8660,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "Zoltan",
+					"Surname": "Csuti",
+					"Id": 9060
+				}
+			]
+		},
+		"9974": {
+			"Name": "#073",
+			"Team": 9995,
+			"Car": 8726,
+			"Id": 9974,
+			"Class": 8660,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "Gergő",
+					"Surname": "Báldi",
+					"Id": 9016
+				}
+			]
+		},
+		"9975": {
+			"Name": "#074",
+			"Team": 10002,
+			"Car": 8726,
+			"Id": 9975,
+			"Class": 8660,
+			"TeamName": "LADA Sport ROSNEFT",
+			"drivers": [
+				{
+					"Forename": "Kirill",
+					"Surname": "Antonov",
+					"Id": 2956
+				}
+			]
+		},
+		"9976": {
+			"Name": "#084",
+			"Team": 9998,
+			"Car": 8726,
+			"Id": 9976,
+			"Class": 8660,
+			"TeamName": "Team Fordzilla",
+			"drivers": [
+				{
+					"Forename": "Juan Manuel",
+					"Surname": "Gomez",
+					"Id": 10009
+				}
+			]
+		},
+		"9977": {
+			"Name": "#091",
+			"Team": 10005,
+			"Car": 8726,
+			"Id": 9977,
+			"Class": 8660,
+			"TeamName": "JJRacing",
+			"drivers": [
+				{
+					"Forename": "James",
+					"Surname": "Montgomery",
+					"Id": 10008
+				}
+			]
+		},
+		"9978": {
+			"Name": "#097",
+			"Team": 9995,
+			"Car": 8726,
+			"Id": 9978,
+			"Class": 8660,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Zsupanek",
+					"Id": 10007
+				}
+			]
+		},
+		"9979": {
+			"Name": "#099",
+			"Team": 10001,
+			"Car": 8726,
+			"Id": 9979,
+			"Class": 8660,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Corentin",
+					"Surname": "Pointeau",
+					"Id": 10006
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -74457,7 +75147,7 @@
 			]
 		},
 		"1851": {
-			"Name": "Indianapolis",
+			"Name": "Indianapolis 2012",
 			"Id": 1851,
 			"layouts": [
 				{
@@ -84494,6 +85184,81 @@
 			"Type": "CarTeam",
 			"Name": "Lidl Automotive Parts",
 			"Id": 9926
+		},
+		"9935": {
+			"Type": "CarTeam",
+			"Name": "Weasel Energy",
+			"Id": 9935
+		},
+		"9952": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9952
+		},
+		"9953": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9953
+		},
+		"9956": {
+			"Type": "CarTeam",
+			"Name": "BMW Belgium BATIBOUW",
+			"Id": 9956
+		},
+		"9995": {
+			"Type": "CarTeam",
+			"Name": "M1RA Esports",
+			"Id": 9995
+		},
+		"9996": {
+			"Type": "CarTeam",
+			"Name": "Dörr Esports",
+			"Id": 9996
+		},
+		"9997": {
+			"Type": "CarTeam",
+			"Name": "Independent",
+			"Id": 9997
+		},
+		"9998": {
+			"Type": "CarTeam",
+			"Name": "Team Fordzilla",
+			"Id": 9998
+		},
+		"9999": {
+			"Type": "CarTeam",
+			"Name": "Snow Schatten Esports",
+			"Id": 9999
+		},
+		"10000": {
+			"Type": "CarTeam",
+			"Name": "Williams Esports",
+			"Id": 10000
+		},
+		"10001": {
+			"Type": "CarTeam",
+			"Name": "Virtualdrivers by TX3",
+			"Id": 10001
+		},
+		"10002": {
+			"Type": "CarTeam",
+			"Name": "LADA Sport ROSNEFT",
+			"Id": 10002
+		},
+		"10003": {
+			"Type": "CarTeam",
+			"Name": "Ballas Racing Team",
+			"Id": 10003
+		},
+		"10004": {
+			"Type": "CarTeam",
+			"Name": "eRC powered by FSP | TÜV Rheinland",
+			"Id": 10004
+		},
+		"10005": {
+			"Type": "CarTeam",
+			"Name": "JJRacing",
+			"Id": 10005
 		}
 	}
 }
