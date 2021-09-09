@@ -79353,6 +79353,12 @@
 					"Track": 1690,
 					"MaxNumberOfVehicles": 40,
 					"Id": 3377
+				},
+				{
+					"Name": "Müllenbachschleife",
+					"Track": 1690,
+					"MaxNumberOfVehicles": 32,
+					"Id": 9847
 				}
 			]
 		},
@@ -79665,6 +79671,12 @@
 					"Track": 2467,
 					"MaxNumberOfVehicles": 36,
 					"Id": 9055
+				},
+				{
+					"Name": "GP Course Oval T1",
+					"Track": 2467,
+					"MaxNumberOfVehicles": 36,
+					"Id": 10328
 				}
 			]
 		},
@@ -80253,6 +80265,12 @@
 					"Track": 8703,
 					"MaxNumberOfVehicles": 32,
 					"Id": 9043
+				},
+				{
+					"Name": "WTCR",
+					"Track": 8703,
+					"MaxNumberOfVehicles": 32,
+					"Id": 9483
 				}
 			]
 		},
@@ -80307,6 +80325,66 @@
 					"Track": 9472,
 					"MaxNumberOfVehicles": 34,
 					"Id": 9473
+				}
+			]
+		},
+		"9657": {
+			"Name": "Nogaro Circuit Paul Armagnac",
+			"Id": 9657,
+			"layouts": [
+				{
+					"Name": "Grand Prix Circuit",
+					"Track": 9657,
+					"MaxNumberOfVehicles": 36,
+					"Id": 9659
+				},
+				{
+					"Name": "Club Circuit",
+					"Track": 9657,
+					"MaxNumberOfVehicles": 32,
+					"Id": 10258
+				},
+				{
+					"Name": "Caupenne Circuit",
+					"Track": 9657,
+					"MaxNumberOfVehicles": 36,
+					"Id": 10392
+				}
+			]
+		},
+		"9942": {
+			"Name": "Indianapolis Motor Speedway",
+			"Id": 9942,
+			"layouts": [
+				{
+					"Name": "Road Course",
+					"Track": 9942,
+					"MaxNumberOfVehicles": 46,
+					"Id": 9943
+				},
+				{
+					"Name": "Historic",
+					"Track": 9942,
+					"MaxNumberOfVehicles": 46,
+					"Id": 9957
+				},
+				{
+					"Name": "Oval",
+					"Track": 9942,
+					"MaxNumberOfVehicles": 46,
+					"Id": 9958
+				}
+			]
+		},
+		"10273": {
+			"Name": "Hockenheimring DMEC",
+			"Id": 10273,
+			"layouts": [
+				{
+					"Name": "DMEC",
+					"Track": 10273,
+					"MaxNumberOfVehicles": 8,
+					"Id": 10274
 				}
 			]
 		}
@@ -81098,11 +81176,71 @@
 			"MaxNumberOfVehicles": 34,
 			"Id": 9473
 		},
+		"9483": {
+			"Name": "WTCR",
+			"Track": 8703,
+			"MaxNumberOfVehicles": 32,
+			"Id": 9483
+		},
+		"9659": {
+			"Name": "Grand Prix Circuit",
+			"Track": 9657,
+			"MaxNumberOfVehicles": 36,
+			"Id": 9659
+		},
 		"9796": {
 			"Name": "Grand Prix (Short Pit Entry)",
 			"Track": 5297,
 			"MaxNumberOfVehicles": 47,
 			"Id": 9796
+		},
+		"9847": {
+			"Name": "Müllenbachschleife",
+			"Track": 1690,
+			"MaxNumberOfVehicles": 32,
+			"Id": 9847
+		},
+		"9943": {
+			"Name": "Road Course",
+			"Track": 9942,
+			"MaxNumberOfVehicles": 46,
+			"Id": 9943
+		},
+		"9957": {
+			"Name": "Historic",
+			"Track": 9942,
+			"MaxNumberOfVehicles": 46,
+			"Id": 9957
+		},
+		"9958": {
+			"Name": "Oval",
+			"Track": 9942,
+			"MaxNumberOfVehicles": 46,
+			"Id": 9958
+		},
+		"10258": {
+			"Name": "Club Circuit",
+			"Track": 9657,
+			"MaxNumberOfVehicles": 32,
+			"Id": 10258
+		},
+		"10274": {
+			"Name": "DMEC",
+			"Track": 10273,
+			"MaxNumberOfVehicles": 8,
+			"Id": 10274
+		},
+		"10328": {
+			"Name": "GP Course Oval T1",
+			"Track": 2467,
+			"MaxNumberOfVehicles": 36,
+			"Id": 10328
+		},
+		"10392": {
+			"Name": "Caupenne Circuit",
+			"Track": 9657,
+			"MaxNumberOfVehicles": 36,
+			"Id": 10392
 		}
 	},
 	"classes": {
