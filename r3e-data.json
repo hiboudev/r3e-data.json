@@ -42824,7 +42824,7 @@
 			"Name": "Audi RS 3 LMS 2021",
 			"BrandName": "Audi",
 			"CarManufacturer": 2551,
-			"DefaultLivery": 10413,
+			"DefaultLivery": 10408,
 			"Id": 10345,
 			"Class": 10344,
 			"liveries": [
@@ -98771,6 +98771,11 @@
 			"Type": "CarTeam",
 			"Name": "Traxxion Guest Team",
 			"Id": 10888
+		},
+		"10901": {
+			"Type": "CarTeam",
+			"Name": "Audi ",
+			"Id": 10901
 		}
 	}
 }
