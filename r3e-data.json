@@ -35727,7 +35727,7 @@
 		},
 		"8677": {
 			"Name": "Shopping Cart",
-			"BrandName": "ICA",
+			"BrandName": "RaceRoom",
 			"CarManufacturer": 4596,
 			"DefaultLivery": 8679,
 			"Id": 8677,
@@ -35735,41 +35735,11 @@
 			"liveries": [
 				{
 					"Name": "#1",
-					"Team": 9849,
+					"Team": 11042,
 					"Car": 8677,
 					"Id": 8679,
 					"Class": 8680,
-					"TeamName": "Sector 3-Eleven",
-					"drivers": [
-						{
-							"Forename": "Ica",
-							"Surname": "Stig",
-							"Id": 9850
-						}
-					]
-				},
-				{
-					"Name": "#3",
-					"Team": 9926,
-					"Car": 8677,
-					"Id": 9923,
-					"Class": 8680,
-					"TeamName": "Lidl Automotive Parts",
-					"drivers": [
-						{
-							"Forename": "Ica",
-							"Surname": "Stig",
-							"Id": 9850
-						}
-					]
-				},
-				{
-					"Name": "#6",
-					"Team": 9925,
-					"Car": 8677,
-					"Id": 9924,
-					"Class": 8680,
-					"TeamName": "Aldi GMbh",
+					"TeamName": "Team Myggan",
 					"drivers": [
 						{
 							"Forename": "Ica",
@@ -42792,6 +42762,21 @@
 							"Id": 9023
 						}
 					]
+				},
+				{
+					"Name": "#900",
+					"Team": 11041,
+					"Car": 10127,
+					"Id": 11040,
+					"Class": 10786,
+					"TeamName": "Motorsport.com",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
 				}
 			]
 		},
@@ -44467,6 +44452,21 @@
 							"Id": 10097
 						}
 					]
+				},
+				{
+					"Name": "#900",
+					"Team": 11039,
+					"Car": 10795,
+					"Id": 11038,
+					"Class": 10786,
+					"TeamName": "Motorsport.com",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
 				}
 			]
 		},
@@ -44675,6 +44675,21 @@
 					"Id": 10858,
 					"Class": 10786,
 					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#900",
+					"Team": 11036,
+					"Car": 10806,
+					"Id": 11037,
+					"Class": 10786,
+					"TeamName": "Motorsport.com",
 					"drivers": [
 						{
 							"Forename": "Guest",
@@ -75029,11 +75044,11 @@
 		},
 		"8679": {
 			"Name": "#1",
-			"Team": 9849,
+			"Team": 11042,
 			"Car": 8677,
 			"Id": 8679,
 			"Class": 8680,
-			"TeamName": "Sector 3-Eleven",
+			"TeamName": "Team Myggan",
 			"drivers": [
 				{
 					"Forename": "Ica",
@@ -82032,36 +82047,6 @@
 				}
 			]
 		},
-		"9923": {
-			"Name": "#3",
-			"Team": 9926,
-			"Car": 8677,
-			"Id": 9923,
-			"Class": 8680,
-			"TeamName": "Lidl Automotive Parts",
-			"drivers": [
-				{
-					"Forename": "Ica",
-					"Surname": "Stig",
-					"Id": 9850
-				}
-			]
-		},
-		"9924": {
-			"Name": "#6",
-			"Team": 9925,
-			"Car": 8677,
-			"Id": 9924,
-			"Class": 8680,
-			"TeamName": "Aldi GMbh",
-			"drivers": [
-				{
-					"Forename": "Ica",
-					"Surname": "Stig",
-					"Id": 9850
-				}
-			]
-		},
 		"9931": {
 			"Name": "#61",
 			"Team": 8207,
@@ -87789,6 +87774,51 @@
 					"Forename": "Manuel",
 					"Surname": "Rodriguez",
 					"Id": 10976
+				}
+			]
+		},
+		"11037": {
+			"Name": "#900",
+			"Team": 11036,
+			"Car": 10806,
+			"Id": 11037,
+			"Class": 10786,
+			"TeamName": "Motorsport.com",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"11038": {
+			"Name": "#900",
+			"Team": 11039,
+			"Car": 10795,
+			"Id": 11038,
+			"Class": 10786,
+			"TeamName": "Motorsport.com",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"11040": {
+			"Name": "#900",
+			"Team": 11041,
+			"Car": 10127,
+			"Id": 11040,
+			"Class": 10786,
+			"TeamName": "Motorsport.com",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
 				}
 			]
 		}
@@ -99827,6 +99857,111 @@
 			"Type": "CarTeam",
 			"Name": "Team Fordzilla",
 			"Id": 10965
+		},
+		"10989": {
+			"Type": "CarTeam",
+			"Name": "Aust Motorsport",
+			"Id": 10989
+		},
+		"10990": {
+			"Type": "CarTeam",
+			"Name": "Phoenix Racing",
+			"Id": 10990
+		},
+		"10991": {
+			"Type": "CarTeam",
+			"Name": "Rutronik Racing by TECE",
+			"Id": 10991
+		},
+		"10992": {
+			"Type": "CarTeam",
+			"Name": "Montaplast by Land-Motorsport",
+			"Id": 10992
+		},
+		"10993": {
+			"Type": "CarTeam",
+			"Name": "Team WRT",
+			"Id": 10993
+		},
+		"10994": {
+			"Type": "CarTeam",
+			"Name": "YACO Racing",
+			"Id": 10994
+		},
+		"10995": {
+			"Type": "CarTeam",
+			"Name": "Car Collection Motorsport",
+			"Id": 10995
+		},
+		"11001": {
+			"Type": "CarTeam",
+			"Name": "Schubert Motorsport",
+			"Id": 11001
+		},
+		"11003": {
+			"Type": "CarTeam",
+			"Name": "Callaway Competition",
+			"Id": 11003
+		},
+		"11005": {
+			"Type": "CarTeam",
+			"Name": "Mann-Filter Team Landgraf-HTP WWR",
+			"Id": 11005
+		},
+		"11006": {
+			"Type": "CarTeam",
+			"Name": "Team Zakspeed Mobil Krankenkasse Racing",
+			"Id": 11006
+		},
+		"11007": {
+			"Type": "CarTeam",
+			"Name": "Toksport WRT",
+			"Id": 11007
+		},
+		"11014": {
+			"Type": "CarTeam",
+			"Name": "Precote Herberth Motorsport",
+			"Id": 11014
+		},
+		"11015": {
+			"Type": "CarTeam",
+			"Name": "MRS GT-Racing",
+			"Id": 11015
+		},
+		"11016": {
+			"Type": "CarTeam",
+			"Name": "KÜS Team Bernhard",
+			"Id": 11016
+		},
+		"11017": {
+			"Type": "CarTeam",
+			"Name": "Team Joos Sportwagentechnik",
+			"Id": 11017
+		},
+		"11018": {
+			"Type": "CarTeam",
+			"Name": "SSR Performance",
+			"Id": 11018
+		},
+		"11036": {
+			"Type": "CarTeam",
+			"Name": "Motorsport.com",
+			"Id": 11036
+		},
+		"11039": {
+			"Type": "CarTeam",
+			"Name": "Motorsport.com",
+			"Id": 11039
+		},
+		"11041": {
+			"Type": "CarTeam",
+			"Name": "Motorsport.com",
+			"Id": 11041
+		},
+		"11042": {
+			"Type": "CarTeam",
+			"Name": "Team Myggan",
+			"Id": 11042
 		}
 	}
 }
