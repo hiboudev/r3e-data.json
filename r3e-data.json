@@ -98893,7 +98893,7 @@
 				{
 					"Name": "Indy",
 					"Track": 2519,
-					"MaxNumberOfVehicles": 33,
+					"MaxNumberOfVehicles": 34,
 					"Id": 2520
 				}
 			]
@@ -99241,25 +99241,25 @@
 				{
 					"Name": "Grand Prix Circuit",
 					"Track": 6586,
-					"MaxNumberOfVehicles": 73,
+					"MaxNumberOfVehicles": 74,
 					"Id": 6587
 				},
 				{
 					"Name": "Club Circuit",
 					"Track": 6586,
-					"MaxNumberOfVehicles": 35,
+					"MaxNumberOfVehicles": 36,
 					"Id": 7976
 				},
 				{
 					"Name": "National Circuit",
 					"Track": 6586,
-					"MaxNumberOfVehicles": 35,
+					"MaxNumberOfVehicles": 36,
 					"Id": 7977
 				},
 				{
 					"Name": "International Circuit",
 					"Track": 6586,
-					"MaxNumberOfVehicles": 35,
+					"MaxNumberOfVehicles": 36,
 					"Id": 7978
 				}
 			]
@@ -99505,7 +99505,7 @@
 				{
 					"Name": "Grand Prix",
 					"Track": 9472,
-					"MaxNumberOfVehicles": 33,
+					"MaxNumberOfVehicles": 34,
 					"Id": 9473
 				}
 			]
@@ -99923,7 +99923,7 @@
 		"2520": {
 			"Name": "Indy",
 			"Track": 2519,
-			"MaxNumberOfVehicles": 33,
+			"MaxNumberOfVehicles": 34,
 			"Id": 2520
 		},
 		"2556": {
@@ -100199,7 +100199,7 @@
 		"6587": {
 			"Name": "Grand Prix Circuit",
 			"Track": 6586,
-			"MaxNumberOfVehicles": 73,
+			"MaxNumberOfVehicles": 74,
 			"Id": 6587
 		},
 		"6658": {
@@ -100259,19 +100259,19 @@
 		"7976": {
 			"Name": "Club Circuit",
 			"Track": 6586,
-			"MaxNumberOfVehicles": 35,
+			"MaxNumberOfVehicles": 36,
 			"Id": 7976
 		},
 		"7977": {
 			"Name": "National Circuit",
 			"Track": 6586,
-			"MaxNumberOfVehicles": 35,
+			"MaxNumberOfVehicles": 36,
 			"Id": 7977
 		},
 		"7978": {
 			"Name": "International Circuit",
 			"Track": 6586,
-			"MaxNumberOfVehicles": 35,
+			"MaxNumberOfVehicles": 36,
 			"Id": 7978
 		},
 		"8069": {
@@ -100421,7 +100421,7 @@
 		"9473": {
 			"Name": "Grand Prix",
 			"Track": 9472,
-			"MaxNumberOfVehicles": 33,
+			"MaxNumberOfVehicles": 34,
 			"Id": 9473
 		},
 		"9483": {
