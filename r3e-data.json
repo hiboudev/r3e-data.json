@@ -38477,6 +38477,21 @@
 							"Id": 11932
 						}
 					]
+				},
+				{
+					"Name": "#13",
+					"Team": 11982,
+					"Car": 8788,
+					"Id": 11981,
+					"Class": 8656,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Jack",
+							"Surname": "Keithley",
+							"Id": 7153
+						}
+					]
 				}
 			]
 		},
@@ -98361,6 +98376,21 @@
 					"Id": 11932
 				}
 			]
+		},
+		"11981": {
+			"Name": "#13",
+			"Team": 11982,
+			"Car": 8788,
+			"Id": 11981,
+			"Class": 8656,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Jack",
+					"Surname": "Keithley",
+					"Id": 7153
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -99523,7 +99553,7 @@
 				{
 					"Name": "Club Circuit",
 					"Track": 9657,
-					"MaxNumberOfVehicles": 32,
+					"MaxNumberOfVehicles": 26,
 					"Id": 10258
 				},
 				{
@@ -100475,7 +100505,7 @@
 		"10258": {
 			"Name": "Club Circuit",
 			"Track": 9657,
-			"MaxNumberOfVehicles": 32,
+			"MaxNumberOfVehicles": 26,
 			"Id": 10258
 		},
 		"10274": {
@@ -111618,6 +111648,26 @@
 			"Type": "CarTeam",
 			"Name": "Gatochain Ballas Esports",
 			"Id": 11940
+		},
+		"11962": {
+			"Type": "CarTeam",
+			"Name": "Darke Horse Racing",
+			"Id": 11962
+		},
+		"11969": {
+			"Type": "CarTeam",
+			"Name": "KRT Competition",
+			"Id": 11969
+		},
+		"11972": {
+			"Type": "CarTeam",
+			"Name": "Digital Motorsport SK",
+			"Id": 11972
+		},
+		"11982": {
+			"Type": "CarTeam",
+			"Name": "Williams Esports",
+			"Id": 11982
 		}
 	}
 }
