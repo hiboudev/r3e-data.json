@@ -38345,11 +38345,11 @@
 			"liveries": [
 				{
 					"Name": "#8",
-					"Team": 8844,
+					"Team": 12005,
 					"Car": 8788,
 					"Id": 8790,
 					"Class": 8656,
-					"TeamName": "Team Fordzilla",
+					"TeamName": "Veloce",
 					"drivers": [
 						{
 							"Forename": "Alessandro",
@@ -38435,11 +38435,11 @@
 				},
 				{
 					"Name": "#46",
-					"Team": 8844,
+					"Team": 12005,
 					"Car": 8788,
 					"Id": 9286,
 					"Class": 8656,
-					"TeamName": "Team Fordzilla",
+					"TeamName": "Veloce",
 					"drivers": [
 						{
 							"Forename": "Gianmarco",
@@ -43820,6 +43820,111 @@
 							"Forename": "Manuel",
 							"Surname": "Staedel",
 							"Id": 7924
+						}
+					]
+				},
+				{
+					"Name": "#57",
+					"Team": 11962,
+					"Car": 9986,
+					"Id": 11963,
+					"Class": 9989,
+					"TeamName": "Darke Horse Racing",
+					"drivers": [
+						{
+							"Forename": "Chris",
+							"Surname": "Mackenzie",
+							"Id": 11961
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 11224,
+					"Car": 9986,
+					"Id": 11965,
+					"Class": 9989,
+					"TeamName": "Team Tracktime",
+					"drivers": [
+						{
+							"Forename": "Jord",
+							"Surname": "Evans",
+							"Id": 11964
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 11280,
+					"Car": 9986,
+					"Id": 11967,
+					"Class": 9989,
+					"TeamName": "Ascher Racing",
+					"drivers": [
+						{
+							"Forename": "Christopher",
+							"Surname": "Pecqueux",
+							"Id": 11966
+						}
+					]
+				},
+				{
+					"Name": "#48",
+					"Team": 11969,
+					"Car": 9986,
+					"Id": 11970,
+					"Class": 9989,
+					"TeamName": "KRT Competition",
+					"drivers": [
+						{
+							"Forename": "Ottavio",
+							"Surname": "de Barros",
+							"Id": 11968
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 11972,
+					"Car": 9986,
+					"Id": 11973,
+					"Class": 9989,
+					"TeamName": "Digital Motorsport SK",
+					"drivers": [
+						{
+							"Forename": "Ivan",
+							"Surname": "Hruška",
+							"Id": 11971
+						}
+					]
+				},
+				{
+					"Name": "#08",
+					"Team": 11280,
+					"Car": 9986,
+					"Id": 11975,
+					"Class": 9989,
+					"TeamName": "Ascher Racing",
+					"drivers": [
+						{
+							"Forename": "Velo",
+							"Surname": "Wringler",
+							"Id": 11974
+						}
+					]
+				},
+				{
+					"Name": "#80",
+					"Team": 11224,
+					"Car": 9986,
+					"Id": 11977,
+					"Class": 9989,
+					"TeamName": "Team Tracktime",
+					"drivers": [
+						{
+							"Forename": "Wam",
+							"Surname": "Es",
+							"Id": 11976
 						}
 					]
 				}
@@ -81404,11 +81509,11 @@
 		},
 		"8790": {
 			"Name": "#8",
-			"Team": 8844,
+			"Team": 12005,
 			"Car": 8788,
 			"Id": 8790,
 			"Class": 8656,
-			"TeamName": "Team Fordzilla",
+			"TeamName": "Veloce",
 			"drivers": [
 				{
 					"Forename": "Alessandro",
@@ -84299,11 +84404,11 @@
 		},
 		"9286": {
 			"Name": "#46",
-			"Team": 8844,
+			"Team": 12005,
 			"Car": 8788,
 			"Id": 9286,
 			"Class": 8656,
-			"TeamName": "Team Fordzilla",
+			"TeamName": "Veloce",
 			"drivers": [
 				{
 					"Forename": "Gianmarco",
@@ -98377,6 +98482,111 @@
 				}
 			]
 		},
+		"11963": {
+			"Name": "#57",
+			"Team": 11962,
+			"Car": 9986,
+			"Id": 11963,
+			"Class": 9989,
+			"TeamName": "Darke Horse Racing",
+			"drivers": [
+				{
+					"Forename": "Chris",
+					"Surname": "Mackenzie",
+					"Id": 11961
+				}
+			]
+		},
+		"11965": {
+			"Name": "#77",
+			"Team": 11224,
+			"Car": 9986,
+			"Id": 11965,
+			"Class": 9989,
+			"TeamName": "Team Tracktime",
+			"drivers": [
+				{
+					"Forename": "Jord",
+					"Surname": "Evans",
+					"Id": 11964
+				}
+			]
+		},
+		"11967": {
+			"Name": "#24",
+			"Team": 11280,
+			"Car": 9986,
+			"Id": 11967,
+			"Class": 9989,
+			"TeamName": "Ascher Racing",
+			"drivers": [
+				{
+					"Forename": "Christopher",
+					"Surname": "Pecqueux",
+					"Id": 11966
+				}
+			]
+		},
+		"11970": {
+			"Name": "#48",
+			"Team": 11969,
+			"Car": 9986,
+			"Id": 11970,
+			"Class": 9989,
+			"TeamName": "KRT Competition",
+			"drivers": [
+				{
+					"Forename": "Ottavio",
+					"Surname": "de Barros",
+					"Id": 11968
+				}
+			]
+		},
+		"11973": {
+			"Name": "#13",
+			"Team": 11972,
+			"Car": 9986,
+			"Id": 11973,
+			"Class": 9989,
+			"TeamName": "Digital Motorsport SK",
+			"drivers": [
+				{
+					"Forename": "Ivan",
+					"Surname": "Hruška",
+					"Id": 11971
+				}
+			]
+		},
+		"11975": {
+			"Name": "#08",
+			"Team": 11280,
+			"Car": 9986,
+			"Id": 11975,
+			"Class": 9989,
+			"TeamName": "Ascher Racing",
+			"drivers": [
+				{
+					"Forename": "Velo",
+					"Surname": "Wringler",
+					"Id": 11974
+				}
+			]
+		},
+		"11977": {
+			"Name": "#80",
+			"Team": 11224,
+			"Car": 9986,
+			"Id": 11977,
+			"Class": 9989,
+			"TeamName": "Team Tracktime",
+			"drivers": [
+				{
+					"Forename": "Wam",
+					"Surname": "Es",
+					"Id": 11976
+				}
+			]
+		},
 		"11981": {
 			"Name": "#13",
 			"Team": 11982,
@@ -111668,6 +111878,16 @@
 			"Type": "CarTeam",
 			"Name": "Williams Esports",
 			"Id": 11982
+		},
+		"11997": {
+			"Type": "CarTeam",
+			"Name": "Tuning World Bodensee",
+			"Id": 11997
+		},
+		"12005": {
+			"Type": "CarTeam",
+			"Name": "Veloce",
+			"Id": 12005
 		}
 	}
 }
